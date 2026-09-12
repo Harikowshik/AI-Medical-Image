@@ -315,8 +315,7 @@ git commit -m "feat: initial release of AI Medical Imaging Diagnosis Agent"
 git branch -M main
 
 # 5. Link to your newly created GitHub repository
-# (Replace GVHariKowshik with your GitHub username if different)
-git remote add origin https://github.com/Harikowshik/AI-Medical-Image.git
+
 
 # 6. Push code to GitHub
 git push -u origin main
