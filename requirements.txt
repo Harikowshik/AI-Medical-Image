@@ -1,0 +1,8 @@
+streamlit>=1.40.0
+agno>=3.0.0
+google-genai>=2.0.0
+duckduckgo-search>=8.0.0
+ddgs>=9.0.0
+pillow>=10.0.0
+pydicom>=3.0.0
+python-dotenv>=1.0.0
